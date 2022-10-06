@@ -45,4 +45,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I﻿ am currently a 5th year PhD in Electrical and Computer Engineering supervised by Prof. Fei Miao at University of Connecticut. My current research interests include safe and robust reinforcement learning, deep learning and autonomous driving.
+I﻿ am currently a 5th year PhD candidate in Electrical and Computer Engineering supervised by Prof. Fei Miao at University of Connecticut. My current research interests include safe and robust reinforcement learning, deep learning and autonomous driving.
