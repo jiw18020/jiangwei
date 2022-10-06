@@ -28,7 +28,7 @@ widget_id: "2"
 headless: true
 weight: 40
 title: Experience
-subtitle: Research Assistant
+subtitle: ""
 design:
   columns: "2"
 ---
