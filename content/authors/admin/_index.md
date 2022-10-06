@@ -1,7 +1,7 @@
 ---
 title: Jiangwei Wang
 role: PhD Candidate | Electrical and Computer Engineering | Artificial Intelligence
-avatar_filename: 1665071579154.jpg
+avatar_filename: img_1806.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
