@@ -37,7 +37,7 @@ education:
       institution: University of Connecticut
       year: 2023
     - course: BS in Electrical and Computer Engineering
-      institution: University of Connecticut
+      institution: Xi'an Jiaotong University
       year: 2018
 superuser: true
 last_name: Bighetti
